@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-family: 'Arial', sans-serif;
+    color: #343a40;
+    padding-top: 20px;
+}
+
+.lead {
+    color: #6c757d;
+    padding-bottom: 40px;
+}
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 5%;
+}
